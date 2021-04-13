@@ -20,7 +20,7 @@ public class Main {
 		
 		System.out.println("Brand : " + Apple.getBrand());
 		System.out.println("Model : " + Apple.getModel());
-		System.out.println("Display size : " + Apple.getDisplaysize());
+		System.out.println("Display size : " + Apple.getDisplaysize() + " inch");
 		System.out.println("Processor Type : " + Apple.getProcessortype());
 		System.out.println("Function for communication is " + Apple.getCommunicate());
 		System.out.println("Function for search is " + Apple.getSearch());
@@ -40,7 +40,7 @@ public class Main {
 		
 		System.out.println("Brand : " + HP.getBrand());
 		System.out.println("Model : " + HP.getModel());
-		System.out.println("Display size : " + HP.getDisplaysize());
+		System.out.println("Display size : " + HP.getDisplaysize() + " inch");
 		System.out.println("Processor Type : " + HP.getProcessortype());
 		System.out.println("Function for communication is " + HP.getCommunicate());
 		System.out.println("Function for search is " + HP.getSearch());
@@ -60,7 +60,7 @@ public class Main {
 		
 		System.out.println("Brand : " + Huawei.getBrand());
 		System.out.println("Model : " + Huawei.getModel());
-		System.out.println("Display size : " + Huawei.getDisplaysize());
+		System.out.println("Display size : " + Huawei.getDisplaysize() + " inch");
 		System.out.println("Processor Type : " + Huawei.getProcessortype());
 		System.out.println("Function for communication is " + Huawei.getCommunicate());
 		System.out.println("Function for search is " + Huawei.getSearch());
